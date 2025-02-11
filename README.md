@@ -21,5 +21,5 @@ Cost-Effective: Reduces the need for manual inspection and minimizes crop losses
 
 Scalability: Can be applied to large-scale farming operations.
 
-##Trained Model Google drive link
+## Trained Model Google drive 
 link : https://drive.google.com/file/d/1lNY7K8fA18cFzzNYJTC0R_6XpO8PJQb_/view?usp=sharing
